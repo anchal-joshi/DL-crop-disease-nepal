@@ -141,3 +141,13 @@ Source: https://www.kaggle.com/datasets/emmarex/plantdisease
 
 D. P. Hughes and M. Salathé, "An open access repository of images for
 identification of plant diseases," arXiv:1511.08060, 2015.
+=======
+# DL-crop-disease-nepal
+
+Download PlantVillage dataset from
+
+https://www.kaggle.com/datasets/emmarex/plantdisease
+
+Extract here.
+
+GitHub does not contain dataset because it is large.
