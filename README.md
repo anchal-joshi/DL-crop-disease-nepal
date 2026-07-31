@@ -154,8 +154,9 @@ From the repository root:
 # Activate your environment (example for venv on Windows)
 venv\Scripts\activate
 
-# Run the app
-python src/app.py
+# Move into src and run the app
+cd src
+python app.py
 ```
 
 The terminal will show a local URL, for example:
