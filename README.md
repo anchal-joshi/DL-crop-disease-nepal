@@ -26,15 +26,15 @@ DL-crop-disease-nepal/
 ├── requirements.txt
 ├── .gitignore
 ├── data/
-│   └── README.md          ← dataset download instructions
+│   └── README.md          <= dataset download instructions
 ├── notebooks/
 │   ├── 01_data_cleaning.ipynb
 │   ├── 02_data_pipeline.ipynb
 │   ├── 03_baseline_cnn.ipynb
 │   ├── 04_transfer_learning.ipynb
-│   └── 05_evaluation.ipynb   (optional comparison notebook)
+│   
 ├── src/
-│   └── app.py             ← Gradio demo (baseline CNN)
+│   └── app.py             <= Gradio demo (baseline CNN)
 ├── models/
 │   ├── class_names.npy
 │   ├── class_weights.npy
@@ -130,7 +130,6 @@ the PlantVillage dataset before running any notebooks.
 2. notebooks/02_data_pipeline.ipynb
 3. notebooks/03_baseline_cnn.ipynb
 4. notebooks/04_transfer_learning.ipynb
-5. notebooks/05_evaluation.ipynb   (optional)
 ```
 
 Open Jupyter with:
@@ -217,14 +216,6 @@ Then open the URL shown in the terminal in your browser.
 This repository is for educational use as part of CSC60904 Deep Learning.
 The PlantVillage dataset is subject to its own license; see the dataset
 page for details.
-
----
-
-## AI Tool Usage Declaration
-
-This project used AI coding assistants (e.g., ChatGPT / Perplexity) as
-learning aids for code debugging and documentation. All code, analysis,
-and writing are the group’s own work.
 
 ---
 
