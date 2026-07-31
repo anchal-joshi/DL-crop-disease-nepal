@@ -6,7 +6,7 @@ from PIL import Image
 from pathlib import Path
 
 # Project paths
-BASE_DIR = Path(".").resolve()
+BASE_DIR = Path(__file__).resolve().parent.parent  
 MODEL_DIR = BASE_DIR / "models"
 
 # Use BASELINE CNN model (change filename if needed)
