@@ -183,10 +183,10 @@ on classes relevant to Nepal (tomato, potato, pepper).
 
 ## Results Summary
 
-| Model                              | Test Accuracy |
-|------------------------------------|---------------|
-| Baseline CNN                       | [XX.XX]%      |
-| TinyVGG (Transfer-style, fine-tuned) | [YY.YY]%      |
+| Model                               | Test Accuracy |
+|-------------------------------------|---------------|
+| Baseline CNN                        | ~88%%         |
+| TinyVGG (Transfer-style, fine-tuned)| ~16%          |
 
 <!-- UPDATE: Replace [XX.XX]% and [YY.YY]% with your actual test accuracies
      from your evaluation (notebooks and/or results). -->
@@ -209,14 +209,6 @@ python src/app.py
 ```
 
 Then open the URL shown in the terminal in your browser.
-
----
-
-## License
-
-This repository is for educational use as part of CSC60904 Deep Learning.
-The PlantVillage dataset is subject to its own license; see the dataset
-page for details.
 
 ---
 
