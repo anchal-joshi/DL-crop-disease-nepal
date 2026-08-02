@@ -10,9 +10,9 @@ University CSC60904 Deep Learning group assignment.
 
 | Name                 | Student ID | Role                                                             |
 |----------------------|------------|------------------------------------------------------------------|
-| ANCHAL JOSHI         | [ID]       |Team Lead/Project Manager, ML Engineer, Evaluation and Ethics Lead|
-| SAMAR MAHARJAN       | [ID]       | Data Engineer, ML Engineer                                       |
-| BISHAL GODAR THAPA   | [ID]       | Documentation and Presentation Lead, ML Engineer                 |
+| ANCHAL JOSHI         | 0380800    |Team Lead/Project Manager, ML Engineer, Evaluation and Ethics Lead|
+| SAMAR MAHARJAN       | 0380939    | Data Engineer, ML Engineer                                       |
+| BISHAL GODAR THAPA   | 0381157    | Documentation and Presentation Lead, ML Engineer                 |
 
 <!-- UPDATE: Replace [NAME] and [ID] with actual details. -->
 
@@ -183,10 +183,10 @@ on classes relevant to Nepal (tomato, potato, pepper).
 
 ## Results Summary
 
-| Model                              | Test Accuracy |
-|------------------------------------|---------------|
-| Baseline CNN                       | [XX.XX]%      |
-| TinyVGG (Transfer-style, fine-tuned) | [YY.YY]%      |
+| Model                               | Test Accuracy |
+|-------------------------------------|---------------|
+| Baseline CNN                        | ~88%%         |
+| TinyVGG (Transfer-style, fine-tuned)| ~16%          |
 
 <!-- UPDATE: Replace [XX.XX]% and [YY.YY]% with your actual test accuracies
      from your evaluation (notebooks and/or results). -->
@@ -209,14 +209,6 @@ python src/app.py
 ```
 
 Then open the URL shown in the terminal in your browser.
-
----
-
-## License
-
-This repository is for educational use as part of CSC60904 Deep Learning.
-The PlantVillage dataset is subject to its own license; see the dataset
-page for details.
 
 ---
 
