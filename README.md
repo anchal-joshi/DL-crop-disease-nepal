@@ -10,9 +10,9 @@ University CSC60904 Deep Learning group assignment.
 
 | Name                 | Student ID | Role                                                             |
 |----------------------|------------|------------------------------------------------------------------|
-| ANCHAL JOSHI         | [ID]       |Team Lead/Project Manager, ML Engineer, Evaluation and Ethics Lead|
-| SAMAR MAHARJAN       | [ID]       | Data Engineer, ML Engineer                                       |
-| BISHAL GODAR THAPA   | [ID]       | Documentation and Presentation Lead, ML Engineer                 |
+| ANCHAL JOSHI         | 0380800    |Team Lead/Project Manager, ML Engineer, Evaluation and Ethics Lead|
+| SAMAR MAHARJAN       | 0380939    | Data Engineer, ML Engineer                                       |
+| BISHAL GODAR THAPA   | 0381157    | Documentation and Presentation Lead, ML Engineer                 |
 
 <!-- UPDATE: Replace [NAME] and [ID] with actual details. -->
 
